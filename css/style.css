@@ -1,0 +1,9 @@
+.container {
+	width: 1165px;
+	margin: 0 auto;
+}
+
+h2 {
+	color: red;
+	font-size: 56px;
+}
